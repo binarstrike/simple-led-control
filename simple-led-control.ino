@@ -7,13 +7,13 @@
  * dan sesuaikan nama akses point atau hotspot dan password nya
 */
 #ifndef SECRET_H_
+  #define BLYNK_TEMPLATE_ID "TMPLXXXXX"
+  #define BLYNK_TEMPLATE_NAME "Template name"
   #define BLYNK_AUTH_TOKEN "auth token"
   #define SSID "access point 1"
   #define PASSWORD "password"
 #endif
 
-#define BLYNK_TEMPLATE_ID "TMPL62F1EqaD-"
-#define BLYNK_TEMPLATE_NAME "Template 3A9D2F7"
 #define BLYNK_PRINT Serial
 
 const uint8_t LED_PIN = D1;
