@@ -1,0 +1,3 @@
+{
+    "content": "```json\n{\n\t\"id\": \"{device_id}\",\n\t\"productName\": \"{device_productName}\",\n\t\"name\": \"{device_name}\",\n\t\"orgName\": \"{device_orgName}\",\n\t\"pin\": \"{device_pin}\",\n\t\"dataStreamId\": \"{device_dataStreamId}\",\n\t\"pinValue\": \"{device_pinValue}\",\n\t\"tags\": \"{device_tags}\",\n}```"
+}

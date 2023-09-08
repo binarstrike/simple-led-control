@@ -1,0 +1,13 @@
+{
+    "editor.fontFamily": "JetBrains Mono SemiBold",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 14,
+    "[cpp]": {
+        "editor.wordBasedSuggestions": false,
+        "editor.suggest.insertMode": "replace",
+        "editor.semanticHighlighting.enabled": true,
+        "editor.insertSpaces": true,
+        "editor.indentSize": "tabSize",
+        "editor.tabSize": 2
+    }
+}
